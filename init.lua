@@ -1,1 +1,1 @@
-print("Hello NeoVim")
+require "core"
